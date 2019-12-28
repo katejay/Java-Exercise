@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class Swap_2no_using_3rd_variable {
 	static int a=10;

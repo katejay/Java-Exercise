@@ -2,19 +2,19 @@ package inheritance;
 
 class animal2 {
 	void eat() {
-		System.out.println("Eating...");
+		System.out.println("Eating..");
 	}
 }
 
 class Dog2 extends animal2{
 	void bark() {
-		System.out.println("barking...");
+		System.out.println("barking..");
 	}
 }
 
 class Cat2 extends animal2 {
 	void meow() {
-		System.out.println("Meow...");
+		System.out.println("Meow..");
 	}
 }
 public class Hirarchical {
@@ -29,5 +29,4 @@ public class Hirarchical {
 		d2.bark();
 		d2.eat();
 	}
-
 }

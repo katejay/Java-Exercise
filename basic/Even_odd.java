@@ -1,4 +1,4 @@
-package jay;
+package basic;
 import java.util.Scanner;
 public class Even_odd {
 	static int x;
@@ -10,11 +10,11 @@ public class Even_odd {
 		
 		if ( x % 2 == 0)
 		{
-			System.out.println(x+ "Number is even");
+			System.out.println(x+ " number is even");
 		}
 		else
 		{
-			System.out.println(x+ "Number is odd");
+			System.out.println(x+ " number is odd");
 		}
 			
 	}

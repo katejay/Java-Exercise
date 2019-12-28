@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class CT_addition {
 	static int x=10;

@@ -10,15 +10,14 @@ public class Arrayexception {
 			a[1]=2;
 			a[2]=3;
 			a[4]=5;
-			System.out.println(a[4]);
-			
+			System.out.println(a[4]);	
 		}
+		
 		catch(Exception e) {
-			
+			//System.out.println(e);
 			e.printStackTrace();
+			System.out.println("hello");
 		}
-		
-		
+		System.out.println("hello world");
 	}
-
 }

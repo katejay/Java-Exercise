@@ -1,4 +1,4 @@
-package jay;
+package basic;
 import java.util.Scanner; 
 
 public class RT_addition {
@@ -8,10 +8,10 @@ public class RT_addition {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner (System.in);
 		
-		System.out.print("Enter 1st Number : ");	
+		System.out.print("Enter 1st Number : ");
 		x = sc.nextInt();
 		
-		System.out.print("Enter 2nd Number : ");	
+		System.out.print("Enter 2nd Number : ");
 		y = sc.nextInt();
 		
 		int z;

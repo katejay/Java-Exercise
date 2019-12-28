@@ -11,5 +11,4 @@ public class Protected {
 		int z = p1.x+p1.y;
 		System.out.println(z);
 	}
-
 }

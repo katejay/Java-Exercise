@@ -1,4 +1,4 @@
-package jay;
+package basic;
 import java.util.Scanner;
 public class RT_factorial_no {
 	static int number;

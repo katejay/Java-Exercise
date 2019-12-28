@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class CT_fibo {
 	static int x1=0;

@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class While {
 	static int x=1;
@@ -10,5 +10,4 @@ public class While {
 			x++;
 		}
 	}
-
 }

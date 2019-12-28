@@ -6,7 +6,7 @@ class animal1 {
 	}
 }
 
-class dog1 extends animal {
+class dog1 extends animal1 {
 	void barking() {
 		System.out.println("Barking...");
 	}
@@ -18,14 +18,14 @@ class puppy extends dog1 {
 	}
 }
 
-public class multilevel {
+public class Multilevel {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		puppy p1= new puppy();
 		p1.weep();
 		p1.barking();
-		p1.eat();
+		p1.eating();
 	}
 
 }

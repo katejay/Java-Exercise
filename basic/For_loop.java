@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class For_loop {
 	static int i;
@@ -6,8 +6,6 @@ public class For_loop {
 		// TODO Auto-generated method stub
 		for(i=0; i<10; i++)
 		System.out.println(i);	
-			
-			
 	}
 
 }

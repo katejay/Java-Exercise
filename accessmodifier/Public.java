@@ -10,5 +10,4 @@ String name;
 		p1.name="jay";
 		System.out.println("Name : "+p1.name+"  "+"id : "+p1.id);
 		}
-
 }

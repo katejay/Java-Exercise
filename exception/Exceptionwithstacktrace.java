@@ -9,9 +9,7 @@ public class Exceptionwithstacktrace {
 		System.out.println(s1.length());
 		}
 		catch(Exception e) {
-			
 			e.printStackTrace();
 		}
 	}
-
 }

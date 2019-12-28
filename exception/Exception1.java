@@ -8,11 +8,11 @@ public class Exception1 {
 			//String name="jay";
 			String name=null;
 			System.out.println(name.length());
-	}
+		}
 		catch(Exception e) {
 			System.out.println(e);
 			//e.printStackTrace();
 		}
-		}
-
+		System.out.println("hello");
+	}
 }

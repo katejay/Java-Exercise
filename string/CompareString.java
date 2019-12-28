@@ -12,5 +12,5 @@ public class CompareString {
 		System.out.println(s1.compareTo(s3));//-5 because "h" is 5 times lower than "m"  
 		System.out.println(s1.compareTo(s4));//-15 because "t" is 1 times lower than "m"  
 		System.out.println(s1.compareTo(s5));//2 because "h" is 2 times greater than "f"  
-		}}  
-
+		}
+}  

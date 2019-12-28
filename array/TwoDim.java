@@ -10,9 +10,9 @@ public class TwoDim {
 		a[1][0]=3;
 		a[1][1]=4;
 		
-		for (int row=0; row<=1; row++)
+		for (int row=0; row<=1; row++) // 2 rows
 		{
-			for (int col=0; col<=1; col++)		
+			for (int col=0; col<=1; col++)	// 2 columns
 			{
 				System.out.print(a[row][col]+" ");
 			}

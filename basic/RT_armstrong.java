@@ -1,4 +1,4 @@
-package jay;
+package basic;
 import java.util.Scanner;
 public class RT_armstrong {
 	static int num;
@@ -17,16 +17,16 @@ public class RT_armstrong {
 		{
 			remainder =  num%10;
 			num = num/10;
-			count = count + remainder * remainder * remainder;			
+			count = count + remainder * remainder * remainder;	//Armstrong number is a number that is equal to the sum of cubes of its digits.		
 		}
 		
 		if (temp==count)
 		{
-			System.out.println("Number is armstrong");
+			System.out.println("Number is Armstrong");
 		}
 		else
 		{
-			System.out.println("number is not armstrong");
+			System.out.println("number is not Armstrong");
 		}
 	
 	}

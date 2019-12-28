@@ -1,4 +1,4 @@
-package jay;
+package basic;
 
 public class Hello_java {
 

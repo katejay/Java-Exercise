@@ -1,4 +1,4 @@
-package jay;
+package basic;
 import java.util.Scanner;
 public class Else_if {
 	static int x;

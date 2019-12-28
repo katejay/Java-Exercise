@@ -10,5 +10,4 @@ int q=40;
 		System.out.println(s);
 		
 	}
-
 }
